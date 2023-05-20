@@ -4,14 +4,11 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<br>
-
 - A passionate self-taught backend developer
 
 - My latest project (https://fluently.social/)
 
 - Business background and 1.5 year of working experience in financial industry
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -59,27 +56,18 @@
 
 -----
 
-<br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center" display="flex">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=chiangming07&&theme=solarized-light&show_icons=true" width="350px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiangming07&7&&theme=solarized-light&layout=compact&show_icons=true  alt="chiangming07" width="350px"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=chiangming07&&theme=solarized-light&show_icons=true" width="350px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiangming07&&theme=solarized-light&layout=compact" width="350px">
 </div>
-
-<br>
 <br>
 <br>
 
 -----
-
-<br>
-<br>
 
 ## <b> Connect With Me!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -100,5 +88,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
+
+Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
 Last Edited on: 2023.05.21
