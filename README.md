@@ -54,7 +54,7 @@
 <br>
 <br>
 
------
+<!-- -----
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
@@ -66,7 +66,7 @@
 </div>
 <br>
 <br>
-
+-->
 -----
 
 ## <b> Connect With Me!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -91,4 +91,4 @@
 
 Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
-Last Edited on: 2023.05.21
+Last Edited on: 2023.11.14
