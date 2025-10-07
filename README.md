@@ -2,13 +2,15 @@
 <h1 align="center"><b>Hi , I'm I-Ming </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJiNDIxdGx5bXVlcjhqaHRldWhkaTFtZXEzaWI4aGEwejYzYnQydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SkPmcszgzDHvWkbj68/giphy.gif" width = 50px></picture> **About me**
 
-- A passionate self-taught backend developer with over 2 years of hands-on experience
+M.S. in Software Engineering @ Carnegie Mellon University, Silicon Valley
 
-- My latest project ([Fluently](https://github.com/chiangming07/Fluently-Social))
+- Passionate backend developer with 2+ years of hands-on experience in building scalable systems.
 
-- Business background with 1.5 years of experience as a financial analyst in the financial industry
+- Currently pursuing graduate studies focused on software architecture and backend system design.
+
+🚀 Seeking Summer 2026 Software Engineering Internship opportunities.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -88,11 +90,6 @@
 <a href="https://www.linkedin.com/in/chiangming/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin: I&#8208;Ming Chiang -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-
-
-<a href="mailto:chiangming07@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail: chiangming07-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
 	
 
 <br>
@@ -101,6 +98,4 @@
 <br>
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 2024.12.27
+Last Edited on: 2025.10.6
