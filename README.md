@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm I-Ming </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Miles (I-Ming) </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 ## <picture><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJiNDIxdGx5bXVlcjhqaHRldWhkaTFtZXEzaWI4aGEwejYzYnQydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SkPmcszgzDHvWkbj68/giphy.gif" width = 50px></picture> **About me**
